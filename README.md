@@ -1,6 +1,6 @@
 [Google Doc](https://docs.google.com/document/d/1LRiDRBbK4NEe2d1kC46hDmH54w-1K3PuMVliewu76NU/edit?usp=sharing)
 
-[Website](https://ryanc8401.github.io/delta-math-copy-cat/)
+[Website](https://ryanc8401.github.io/delta-math-copy-cat/deltamath.html)
 
 Reflection:
 
